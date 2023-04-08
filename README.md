@@ -1,5 +1,3 @@
-# Exploratory-Data-Analysis-of-Global-Terrorism
-
 ### Project Title: Exploratory Data Analysis of Global Terrorism Dataset
 
 * Introduction:
