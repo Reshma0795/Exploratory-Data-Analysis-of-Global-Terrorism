@@ -1,4 +1,4 @@
-### Project Title: Exploratory Data Analysis of Global Terrorism Dataset
+### Project Title: Mapping Terror: A Visual Exploration of Global Terrorism Patterns
 
 ## Introduction:
 Terrorism is a significant global security concern. Understanding the patterns and trends in terrorist activities can aid security and defense analysts in identifying hot zones of terrorism and potential security threats. In this project, we aim to perform exploratory data analysis on the Global Terrorism dataset to identify hot zones of terrorism and derive security insights from the dataset.
